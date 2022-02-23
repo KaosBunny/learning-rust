@@ -1,0 +1,1 @@
+/home/niamh/Repos/personal/learning-rust/rust-by-example/target/debug/rust-by-example: /home/niamh/Repos/personal/learning-rust/rust-by-example/src/chapter1.rs /home/niamh/Repos/personal/learning-rust/rust-by-example/src/main.rs
